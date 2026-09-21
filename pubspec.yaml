@@ -1,6 +1,6 @@
 name: skeleton_shimmer_kit
 description: A comprehensive skeleton loading kit with synchronized shimmer animations, pre-built layout presets, and custom bone primitives.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/ShahzainBaloch/skeleton_shimmer_kit
 issue_tracker: https://github.com/ShahzainBaloch/skeleton_shimmer_kit/issues
 topics:
